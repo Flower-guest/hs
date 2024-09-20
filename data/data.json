@@ -24,7 +24,12 @@
     ]
   },
   "3": {
-    "img": ["walkInHS/gxcy.jpg", "walkInHS/jycy.jpg", "walkInHS/sccy.png", "walkInHS/xlxcy.jpg"],
+    "img": [
+      "walkInHS/gxcy.jpg",
+      "walkInHS/jycy.jpg",
+      "walkInHS/sccy.png",
+      "walkInHS/xlxcy.jpg"
+    ],
     "tag": [
       [
         "汉寿县围绕电子信息产业、生物医药研发、新能源新材料研发、装备制造研发、软件与等门类，全力打造科技研发产业集聚区，并形成了涵盖人才、研发及产业化的全方位的扶持政策体系，积极吸引和支持海外人才创新创业，着力打造完整的电子研发产业链。建设产城融合发展的科技新区，为企业提供高效、周到、优质的服务。"
@@ -76,112 +81,6 @@
   "6": {
     "pdfUrl": "生物医药.pdf"
   },
-  "vrList": [
-    {
-      "name": "vr1",
-      "url": "https://www.jgqxw.com/index/tour/show/vid/d1ac00f0496a93af"
-    },
-    {
-      "name": "vr1",
-      "url": "https://www.baidu.com"
-    },
-    {
-      "name": "vr1",
-      "url": "https://www.baidu.com"
-    },
-    {
-      "name": "vr1",
-      "url": "https://www.baidu.com"
-    },
-    {
-      "name": "vr1",
-      "url": "https://www.baidu.com"
-    },
-    {
-      "name": "vr1",
-      "url": "https://www.baidu.com"
-    },
-    {
-      "name": "vr1",
-      "url": "https://www.baidu.com"
-    },
-    {
-      "name": "vr1",
-      "url": "https://www.baidu.com"
-    },
-    {
-      "name": "vr1",
-      "url": "https://www.baidu.com"
-    },
-    {
-      "name": "vr1",
-      "url": "https://www.baidu.com"
-    },
-    {
-      "name": "vr1",
-      "url": "https://www.baidu.com"
-    },
-    {
-      "name": "vr1",
-      "url": "https://www.baidu.com"
-    },
-    {
-      "name": "vr1",
-      "url": "https://www.baidu.com"
-    },
-    {
-      "name": "vr1",
-      "url": "https://www.baidu.com"
-    },
-    {
-      "name": "vr1",
-      "url": "https://www.baidu.com"
-    },
-    {
-      "name": "vr1",
-      "url": "https://www.baidu.com"
-    },
-    {
-      "name": "vr1",
-      "url": "https://www.baidu.com"
-    },
-    {
-      "name": "vr1",
-      "url": "https://www.baidu.com"
-    },
-    {
-      "name": "vr1",
-      "url": "https://www.baidu.com"
-    },
-    {
-      "name": "vr1",
-      "url": "https://www.baidu.com"
-    },
-    {
-      "name": "vr1",
-      "url": "https://www.baidu.com"
-    },
-    {
-      "name": "vr1",
-      "url": "https://www.baidu.com"
-    },
-    {
-      "name": "vr1",
-      "url": "https://www.baidu.com"
-    },
-    {
-      "name": "vr1",
-      "url": "https://www.baidu.com"
-    },
-    {
-      "name": "vr1",
-      "url": "https://www.baidu.com"
-    },
-    {
-      "name": "vr1",
-      "url": "https://www.baidu.com"
-    }
-  ],
   "detailCount": [
     {
       "img": "pc/detail-tdyt.png",
@@ -207,5 +106,16 @@
       "title": "土地报批",
       "props": "approval"
     }
+  ],
+  "detailStatus": [
+    "detail_status/用地报批.png",
+    "detail_status/实地征拆.png",
+    "detail_status/挂牌出让.png",
+    "detail_status/成交公示.png",
+    "detail_status/合同签订.png",
+    "detail_status/用地许可.png",
+    "detail_status/施工许可.png",
+    "detail_status/工程许可.png",
+    "detail_status/不动产登记.png"
   ]
 }
